@@ -1,0 +1,2 @@
+var a=n=>{let e=document.cookie.match("(^|;) ?"+n+"=([^;]*)(;|$)");return e?e[2]:null},m=(n,e,c,{secure:r,samesite:t,document:u=window.document}={})=>{let p=new Date(Date.now()+864e5*c),o=[];o.push([encodeURIComponent(n),encodeURIComponent(e)]),o.push(["path","/"]),o.push(["expires",p.toUTCString()]),r&&o.push(["secure",null]),t&&o.push(["samesite",t]),u.cookie=o.map(([s,i])=>i===null?s:`${s}=${i}`).join(";")};export{a,m as b};
+//# sourceMappingURL=/assets/app.framerstatic.com/chunk-YAIDNKNK.mjs.map

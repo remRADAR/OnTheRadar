@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";import{D as t,L as n,M as r,P as i,l as a,s as o}from"./react.LucpZiGF.mjs";import{d as s,ht as c}from"./framer.sOYJIji1.mjs";function l(){let e=r(null);return n(()=>{e.current&&(e.current.setAttribute(`translate`,`no`),e.current.setAttribute(`lang`,`zxx`))},[]),{ref:e}}function u(e){return t=>(i(s),a(e,{...t,...l(t)}))}var d=e((()=>{o(),t(),c(),u.displayName=`DisableTranslation`}));export{u as n,d as t};
+//# sourceMappingURL=NoTranslate.DJ_Q6yPB.mjs.map

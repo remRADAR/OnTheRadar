@@ -1,0 +1,27 @@
+{
+  "approved_scope": "https://fuel.framer.website/",
+  "source_repository": "https://github.com/remRADAR/framer-clone",
+  "captured_at": "2026-08-28",
+  "route_count": 13,
+  "routes": [
+    {"path": "/", "file": "index.html", "status": 200, "notes": "Homepage editorial scroll with navigation, hero, portfolio, services, pricing, archive, stats, articles, FAQ, and footer."},
+    {"path": "/about", "file": "about.html", "status": 200, "notes": "Studio, process, team, awards, clients, and stats."},
+    {"path": "/contact", "file": "contact.html", "status": 200, "notes": "Contact form, FAQ, showreel link, and footer CTA; form not submitted."},
+    {"path": "/work/portfolio", "file": "work-portfolio.html", "status": 200, "notes": "Portfolio index."},
+    {"path": "/work/portfolio/vellfire-calibration", "file": "work-portfolio-vellfire-calibration.html", "status": 200, "notes": "Portfolio detail route."},
+    {"path": "/work/portfolio/dunwill-lanson", "file": "work-portfolio-dunwill-lanson.html", "status": 200, "notes": "Portfolio detail route."},
+    {"path": "/work/portfolio/noara-willis", "file": "work-portfolio-noara-willis.html", "status": 200, "notes": "Portfolio detail route."},
+    {"path": "/work/portfolio/nike-studios", "file": "work-portfolio-nike-studios.html", "status": 200, "notes": "Portfolio detail route."},
+    {"path": "/blog/velocity-becomes", "file": "blog-velocity-becomes.html", "status": 200, "notes": "Article detail route."},
+    {"path": "/blog/way-to-clearance", "file": "blog-way-to-clearance.html", "status": 200, "notes": "Article detail route."},
+    {"path": "/blog/all-grapples", "file": "blog-all-grapples.html", "status": 200, "notes": "Article detail route."},
+    {"path": "/blog/flowers-love", "file": "blog-flowers-love.html", "status": 200, "notes": "Article detail route."},
+    {"path": "/404", "file": "404.html", "status": 200, "notes": "Reference not-found page captured as a static route."}
+  ],
+  "assets": {"captured": 877, "approximate_size": "118 MB", "local_root": "assets/", "telemetry_skipped": true},
+  "dynamic_notes": [
+    "The export captures CMS content as static HTML at export time.",
+    "Framer-hosted form submission was not invoked; the contact form remains a visual/static clone.",
+    "Analytics and telemetry domains were intentionally skipped by the exporter."
+  ]
+}
