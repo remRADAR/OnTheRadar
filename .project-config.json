@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/ZhkSayknamDpRdUcKSky67.git",
+    "expiration": "2026-08-29T17:25:55.215Z",
+    "token": "art_v2_x_c7bc03241c170c3acc2c8d6035d981256d3f793a?expires=1788024355",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "ontheradar-web",
+  "path": "/home/ubuntu/ontheradar-web",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "BqUn88hRfY2nqCbNq7AdFf",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "Rjt9VUKeWFDTmnpZHVxdou",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "mail",
+    "OWNER_OPEN_ID": "KkWVsxKxDQoEnjGdsqK7yA",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "ee549745-2732-415f-8272-ac78b1c9a80d",
+    "VITE_APP_ID": "ZhkSayknamDpRdUcKSky67",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "On The Radar",
+    "VITE_FRONTEND_FORGE_API_KEY": "ggnA7ZwKJmo7gG75kakVQS",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
